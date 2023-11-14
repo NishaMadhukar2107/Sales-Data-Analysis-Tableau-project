@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-Tableau-project
+# Sales-Data-Analysis-Power BI-project
  
 Purpose: Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
